@@ -16,7 +16,7 @@ The last table I made was a table to understand which states had the highest amo
 
 ![Comparing Male and Female Overdose Death Rates](./Screenshot%202026-06-30%20174305.png) 
 ![Comparing State's Overdose Death Rates](./Screenshot%202026-06-30%20205104.png)
-
+![Pivot Table for Deaths Each Year](./Screenshot%202026-07-04%20235903.png)
 ### **Ethical Concerns**
 
 For this dataset there are a number of ethical concerns. For a long period of time there have been debates and concerns on the way the CDC takes their data. As the CDC takes a portion of their data from public health surveys, there is the concern of giving patients the autonomy on releasing their data. While this form of data collection was there to reduce exclusion of data, it has also sparked the concern of people’s data being collected without asking for explicit patient consent. There is also the concern that with overdose data, a lot of populations are not surveying disadvantaged populations as often as populations with more developed areas–possibly with better medical facilities. That being said, many populations are not included within the dataset and it can result in skewed statistics. In this dataset, a clear missing population was California, so addressing the lack of certain people's data is key to understand the true impact of drug overdose across the nation, as we are missing at least about 12 percent of the nations data. 
