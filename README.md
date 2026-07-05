@@ -14,7 +14,7 @@ After creating a pivot table to compare male and female I found it interesting t
 ### **Visualizations**
 
 ![Comparing Male and Female Overdose Death Rates](Screenshot 2026-06-30 174305.png) 
-![Comparing State's Overdose Death Rates][image2]
+![Comparing State's Overdose Death Rates](Screenshot 2026-06-30 205104.png)
 
 ### **Summary**
 
